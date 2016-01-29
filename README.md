@@ -1,4 +1,4 @@
-<img src="demo1.jpg"/><img src="demo2.jpg"/><img src="demo3.jpg"/><img src="demo4.jpg"/>
+<img src="demo1.jpg" width="340" height="500"/><img src="demo2.jpg" width="340" height="500"/><img src="demo3.jpg" width="340" height="500"/><img src="demo4.jpg" width="340" height="500"/>
 
 ## How to use 
 

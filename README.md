@@ -1,5 +1,6 @@
+<img src="demo1.jpg"/><img src="demo2.jpg"/>
 
-## how to Use 
+## How to use 
 
 
 ## Add css
@@ -7,10 +8,12 @@
 <link rel="stylesheet" href="static/css/gplusDrop.css">
 ```
 
-## Add html
+## Add html 
 ```html
 
+</body>
 <script type="text/javascript" src="static/js/gplusDrop.js"></script>
+</html>
 
 ```
 ## enjoy it

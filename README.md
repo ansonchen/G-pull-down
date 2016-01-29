@@ -1,4 +1,4 @@
-<img src="demo1.jpg"/><img src="demo2.jpg"/>
+<img src="demo1.jpg"/><img src="demo2.jpg"/><img src="demo3.jpg"/><img src="demo4.jpg"/>
 
 ## How to use 
 
